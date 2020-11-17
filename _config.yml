@@ -45,6 +45,9 @@ author:
   email:               <jeffreystephensabol@gmail.com>
   # # Used by `jekyll-seo-tag`:
   twitter:             <lalibraryman>
+  social:
+    github:  libraryman # now github appears first
+    twitter: lalibraryman
 
 # Add links to the sidebar.
 menu:
@@ -103,8 +106,8 @@ theme: jekyll-theme-hydejack
 # Customizaton
 # ----------------------------------------------------------------------------------------
  
-# Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
+# Sidebar image and theme color of the site./assets/img/sidebar-bg.jpg
+accent_image:          none
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
