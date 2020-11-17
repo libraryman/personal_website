@@ -41,10 +41,9 @@ logo:                 none
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <Jeffrey> <Sabol>
-  email:               <jeffreystephensabol@gmail.com>
+  name:                Jeffrey Sabol
+  email:               jeffreystephensabol@gmail.com
   # # Used by `jekyll-seo-tag`:
-  twitter:             <lalibraryman>
   social:
     github:  libraryman # now github appears first
     twitter: lalibraryman
