@@ -31,7 +31,7 @@ description:           >
 tagline:              Librarian
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [librarain]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -44,7 +44,7 @@ author:
   name:                <Jeffrey> <Sabol>
   email:               <jeffreystephensabol@gmail.com>
   # # Used by `jekyll-seo-tag`:
-  # twitter:             <lalibraryman>
+  twitter:             <lalibraryman>
 
 # Add links to the sidebar.
 menu:
