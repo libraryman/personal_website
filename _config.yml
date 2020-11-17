@@ -51,9 +51,9 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
+  - title:             Library Project
     url:               /example/
-  - title:             Documentation
+  - title:             Resume
     url:               /docs/
   - title:             About
     url:               /about/
