@@ -352,10 +352,12 @@ plugins:
 # Used on index and about sites
 # social:
 #   name:                <Jeffrey> <Sabol>
-   links:
+links:
    - https://twitter.com/lalibraryman
    - https://github.com/libraryman
-
+#   links:
+#     - https://twitter.com/lalibraryman
+#     - https://github.com/libraryman
 
 # Plugin Configs
 # ---------------------------------------------------------------------------------------
