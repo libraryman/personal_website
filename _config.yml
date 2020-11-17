@@ -28,7 +28,7 @@ description:           >
   The personal portfolio of Jeffrey S Sabol
 
 # A shorter description for the sidebar.
-tagline:              Librarian
+tagline:              Librarian 
 
 # A list of keywords for your blog
 keywords:              [librarain]
@@ -51,7 +51,7 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Library Project
+  - title:             Library Projects
     url:               /example/
   - title:             Resume
     url:               /docs/
