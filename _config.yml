@@ -351,10 +351,10 @@ plugins:
 
 # Used on index and about sites
 # social:
-#   name:                <firstname> <lastname>
-#   links:
-#     - https://twitter.com/lalibraryman
-#     - https://github.com/libraryman
+#   name:                <Jeffrey> <Sabol>
+   links:
+   - https://twitter.com/lalibraryman
+   - https://github.com/libraryman
 
 
 # Plugin Configs
