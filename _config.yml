@@ -350,7 +350,7 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
-# social:
+social:
 #   name:                <Jeffrey> <Sabol>
 links:
    - https://twitter.com/lalibraryman
