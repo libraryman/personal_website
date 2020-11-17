@@ -35,22 +35,25 @@ keywords:              [librarain]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
-# It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo.png
+# It also used by the `jekyll-seo-tag` plugin. /assets/img/jeff.png
 
+logo:                 /assets/img/jeff.jpeg
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <Jeffrey> <Sabol>
-  email:               <jeffreystephensabol@gmail.com>
+  name:                Jeffrey Sabol
+  email:               jeffreystephensabol@gmail.com
   # # Used by `jekyll-seo-tag`:
-  twitter:             <lalibraryman>
+  social:
+    github:  libraryman # now github appears first
+    twitter: lalibraryman
+    twitch:  none
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
+  - title:             Library Project
     url:               /example/
-  - title:             Documentation
+  - title:             Resume
     url:               /docs/
   - title:             About
     url:               /about/
@@ -103,8 +106,8 @@ theme: jekyll-theme-hydejack
 # Customizaton
 # ----------------------------------------------------------------------------------------
  
-# Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
+# Sidebar image and theme color of the site./assets/img/sidebar-bg.jpg
+accent_image:          none
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
@@ -350,12 +353,14 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
-# social:
-#   name:                <firstname> <lastname>
+social:
+#   name:                <Jeffrey> <Sabol>
+links:
+   - https://twitter.com/lalibraryman
+   - https://github.com/libraryman
 #   links:
 #     - https://twitter.com/lalibraryman
 #     - https://github.com/libraryman
-
 
 # Plugin Configs
 # ---------------------------------------------------------------------------------------

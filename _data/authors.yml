@@ -2,21 +2,19 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:             Jeffrey Sabol
+  email:            jeffreystephensabol@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Librarian, swimmer, body surfer and writer.  Husband to Stephanie and Pet dad to 4 cats and a dog.
     
     Open `_data/authors.yml` to edit this text.
 
   # This photo will be used in the about section
   picture:
-    path:            https://placehold.it/128x128
+    path:            https://avatars2.githubusercontent.com/u/3819381?s=460&u=ece2bb902a8726087dd0040eeff7248fd0d36eae&v=4
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
       1x:            https://placehold.it/128x128
@@ -26,9 +24,9 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
-    github:          <username>
-    # email:           <mail@domain.tld>
+    twitter:         lalibraryman
+    github:          libraryman
+    email:          jeffreystephensabol@gmail.com
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
